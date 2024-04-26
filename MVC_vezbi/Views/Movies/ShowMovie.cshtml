@@ -17,7 +17,7 @@
         int i = 0;
         foreach(var client in Model.clients) { 
             <li>
-            <a href="ShowClient/@i">@client.Name, @client.MovieCard</a>
+            <a href="/Movies/ShowClient/@i">@client.Name, @client.MovieCard</a>
             </li>
             i++;
         }
