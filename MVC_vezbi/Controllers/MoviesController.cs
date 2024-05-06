@@ -13,7 +13,8 @@ namespace MVC_vezbi.Controllers
         public static List<Movie> moviesList = new List<Movie>() { 
             new Movie() { Name = "Shrek", Rating = 5, DownloadUrl = "#", ImageUrl = @"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92cMXfUwQSMFMcS-U9JrsKK5XNJMw-P-Sus1MuxmWVHVJ03AC-DtMc-betZYjA6UaD7O-fmJ6MrXj4urZStnTHZr_r6q7BMC4hYDA6IE" } 
         };
-        public static List<Client> clients = new List<Client>() {}; //ova kje ni bide MODELOT ^^^^^
+        public static List<Client> clients = new List<Client>() {};
+        //ova kje ni bide MODELOT ^^^^^
         // GET: Movies
         public ActionResult Index()
         {
@@ -35,11 +36,6 @@ namespace MVC_vezbi.Controllers
             return View(clients.ElementAt(id));
         }
      
-        public ActionResult NewMovie()
-        {
-            Movie model = new Movie();
-            return View(model);
-        }
         public ActionResult NewClient()
         {
             Client model = new Client();
@@ -55,8 +51,11 @@ namespace MVC_vezbi.Controllers
             clients.Add(model);
             return View("GetAllMovies",moviesList);
         }
-
-
+        public ActionResult NewMovie()
+        {
+            Movie model = new Movie();
+            return View(model);
+        }
         [HttpPost]//zasto ova ?
         public ActionResult InsertNewMovie(Movie model) {
             if (!ModelState.IsValid)
