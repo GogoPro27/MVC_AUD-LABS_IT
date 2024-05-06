@@ -1,0 +1,65 @@
+﻿@model MVC_Vezbi_database.Models.Movie
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Movie</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DownloadUrl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DownloadUrl)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImageUrl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ImageUrl)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Rating)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rating)
+        </dd>
+
+    </dl>
+</div>
+<div>
+    <h4>Clients that rented this movie</h4>
+    <ul>
+        @foreach (var client in Model.Clients) { 
+            <li>
+                <a href="/Clients/Details/@client.Id">@client.Name, @client.Name</a>
+            </li>
+        }
+    </ul>
+
+</div>
+
+@*<a href="/Movies/InsertNewClient/@Model.Id">Insert client to movie</a>*@
+@Html.ActionLink("Insert client to a movie", "InsertNewClient", new {id = Model.Id})
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

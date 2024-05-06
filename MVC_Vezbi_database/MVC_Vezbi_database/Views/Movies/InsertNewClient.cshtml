@@ -1,0 +1,20 @@
+﻿@model MVC_Vezbi_database.Models.ClientMovie
+@{
+    ViewBag.Title = "InsertNewClient";
+}
+
+<h2>Insert New Client for @Model.movie.Name</h2>
+
+@using (Html.BeginForm("InsertClientMovie", "Movies")) { 
+    <div>
+        @Html.DropDownListFor(m=>m.ClientId,new SelectList(Model.clients,"Id","Name"),
+       new {@class = "form-control"})
+
+        @Html.HiddenFor(m=>m.MovieId)
+    </div>
+
+    <div>
+        <button type="submit" class="btn">Add client to movie</button>
+    </div>
+}
+
