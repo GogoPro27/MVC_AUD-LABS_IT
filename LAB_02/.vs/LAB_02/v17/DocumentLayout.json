@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\goraz\\source\\repos\\LAB_02\\",
+  "WorkspaceRootPath": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|C:\\Users\\goraz\\source\\repos\\LAB_02\\lab_02\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|solutionrelative:lab_02\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|C:\\Users\\goraz\\source\\repos\\LAB_02\\lab_02\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\lab_02\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|solutionrelative:lab_02\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|C:\\Users\\goraz\\source\\repos\\LAB_02\\lab_02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|c:\\users\\goraz\\source\\repos\\mvc_vezbi\\lab_02\\lab_02\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|solutionrelative:lab_02\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\lab_02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|solutionrelative:lab_02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|c:\\users\\goraz\\source\\repos\\lab_02\\lab_02\\views\\event\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\lab_02\\views\\event\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|solutionrelative:lab_02\\views\\event\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|c:\\users\\goraz\\source\\repos\\lab_02\\lab_02\\views\\event\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\lab_02\\views\\event\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|solutionrelative:lab_02\\views\\event\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|C:\\Users\\goraz\\source\\repos\\LAB_02\\lab_02\\views\\event\\showallevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\lab_02\\views\\event\\showallevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|solutionrelative:lab_02\\views\\event\\showallevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|c:\\users\\goraz\\source\\repos\\lab_02\\lab_02\\views\\event\\showevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\lab_02\\views\\event\\showevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5843BF1A-2EF6-469E-ACF2-E4B7980D79BC}|LAB_02\\LAB_02.csproj|solutionrelative:lab_02\\views\\event\\showevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -38,67 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AddEvent.cshtml",
-              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Views\\Event\\AddEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Views\\Event\\AddEvent.cshtml",
               "RelativeDocumentMoniker": "LAB_02\\Views\\Event\\AddEvent.cshtml",
-              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Views\\Event\\AddEvent.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Views\\Event\\AddEvent.cshtml",
               "RelativeToolTip": "LAB_02\\Views\\Event\\AddEvent.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T19:57:51.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T19:57:51.507Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ShowEvent.cshtml",
-              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Views\\Event\\ShowEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Views\\Event\\ShowEvent.cshtml",
               "RelativeDocumentMoniker": "LAB_02\\Views\\Event\\ShowEvent.cshtml",
-              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Views\\Event\\ShowEvent.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Views\\Event\\ShowEvent.cshtml",
               "RelativeToolTip": "LAB_02\\Views\\Event\\ShowEvent.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T19:50:11.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T19:50:11.78Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "EditEvent.cshtml",
-              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Views\\Event\\EditEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Views\\Event\\EditEvent.cshtml",
               "RelativeDocumentMoniker": "LAB_02\\Views\\Event\\EditEvent.cshtml",
-              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Views\\Event\\EditEvent.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Views\\Event\\EditEvent.cshtml",
               "RelativeToolTip": "LAB_02\\Views\\Event\\EditEvent.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T15:39:59.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T15:39:59.98Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ShowAllEvents.cshtml",
-              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Views\\Event\\ShowAllEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Views\\Event\\ShowAllEvents.cshtml",
               "RelativeDocumentMoniker": "LAB_02\\Views\\Event\\ShowAllEvents.cshtml",
-              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Views\\Event\\ShowAllEvents.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Views\\Event\\ShowAllEvents.cshtml",
               "RelativeToolTip": "LAB_02\\Views\\Event\\ShowAllEvents.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T15:06:17.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T15:06:17.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EventModel.cs",
-              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Models\\EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Models\\EventModel.cs",
               "RelativeDocumentMoniker": "LAB_02\\Models\\EventModel.cs",
-              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Models\\EventModel.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Models\\EventModel.cs",
               "RelativeToolTip": "LAB_02\\Models\\EventModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,11 +103,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Controllers\\EventController.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "LAB_02\\Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Controllers\\EventController.cs",
               "RelativeToolTip": "LAB_02\\Controllers\\EventController.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAYwCIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,14 +118,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LAB_02\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_02\\LAB_02\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\LAB_02\\LAB_02\\Controllers\\HomeController.cs",
               "RelativeToolTip": "LAB_02\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T10:07:32.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T10:07:32.459Z"
             }
           ]
         }
