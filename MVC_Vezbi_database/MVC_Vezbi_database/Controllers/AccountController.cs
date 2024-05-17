@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Security.Claims;
@@ -134,6 +135,24 @@ namespace MVC_Vezbi_database.Controllers
             }
         }
 
+
+        public ActionResult AddUserToRole() { 
+            AddToRoleModel model =  new AddToRoleModel();
+            model.Roles = new List<string>() { "Administrator", "Editor", "User" };
+            return View(model);
+        }
+        [HttpPost]
+        public ActionResult AddUserToRole(AddToRoleModel model)
+        {
+            var email = model.Email;
+            var user = UserManager.FindByEmail(email);
+            if (user == null) {
+                throw new HttpException(404, "No user with that email");
+            }
+            UserManager.AddToRole(user.Id, model.SelectRole);
+            
+            return RedirectToAction("Index","Clients");
+        }
         //
         // GET: /Account/Register
         [AllowAnonymous]

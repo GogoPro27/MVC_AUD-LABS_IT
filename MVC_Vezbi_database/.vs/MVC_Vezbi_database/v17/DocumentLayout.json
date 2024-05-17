@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\goraz\\source\\repos\\MVC_Vezbi_database\\",
+  "WorkspaceRootPath": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|c:\\users\\goraz\\source\\repos\\mvc_vezbi_database\\mvc_vezbi_database\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|c:\\users\\goraz\\source\\repos\\mvc_vezbi\\mvc_vezbi_database\\mvc_vezbi_database\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|solutionrelative:mvc_vezbi_database\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|c:\\users\\goraz\\source\\repos\\mvc_vezbi_database\\mvc_vezbi_database\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\mvc_vezbi_database\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|solutionrelative:mvc_vezbi_database\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|c:\\users\\goraz\\source\\repos\\mvc_vezbi_database\\mvc_vezbi_database\\views\\movies\\insertnewclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\mvc_vezbi_database\\views\\movies\\insertnewclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|solutionrelative:mvc_vezbi_database\\views\\movies\\insertnewclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|c:\\users\\goraz\\source\\repos\\mvc_vezbi_database\\mvc_vezbi_database\\models\\clientmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\mvc_vezbi_database\\models\\clientmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|solutionrelative:mvc_vezbi_database\\models\\clientmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -25,7 +25,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_MVC_Vezbi_database_20240502103958/True/SqlTable/dbo.Movies.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|c:\\users\\goraz\\source\\repos\\mvc_vezbi_database\\mvc_vezbi_database\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\mvc_vezbi_database\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{131EFE60-D84C-4503-946D-C8F91C94BDD6}|MVC_Vezbi_database\\MVC_Vezbi_database.csproj|solutionrelative:mvc_vezbi_database\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -42,11 +42,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_Vezbi_database\\MVC_Vezbi_database\\Views\\Movies\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\MVC_Vezbi_database\\Views\\Movies\\Details.cshtml",
               "RelativeDocumentMoniker": "MVC_Vezbi_database\\Views\\Movies\\Details.cshtml",
-              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_Vezbi_database\\MVC_Vezbi_database\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\MVC_Vezbi_database\\Views\\Movies\\Details.cshtml",
               "RelativeToolTip": "MVC_Vezbi_database\\Views\\Movies\\Details.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAuwC8AAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-02T18:45:28.63Z",
               "EditorCaption": ""
@@ -55,40 +55,37 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "InsertNewClient.cshtml",
-              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_Vezbi_database\\MVC_Vezbi_database\\Views\\Movies\\InsertNewClient.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\MVC_Vezbi_database\\Views\\Movies\\InsertNewClient.cshtml",
               "RelativeDocumentMoniker": "MVC_Vezbi_database\\Views\\Movies\\InsertNewClient.cshtml",
-              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_Vezbi_database\\MVC_Vezbi_database\\Views\\Movies\\InsertNewClient.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\MVC_Vezbi_database\\Views\\Movies\\InsertNewClient.cshtml",
               "RelativeToolTip": "MVC_Vezbi_database\\Views\\Movies\\InsertNewClient.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T18:30:01.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T18:30:01.492Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ClientMovie.cs",
-              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_Vezbi_database\\MVC_Vezbi_database\\Models\\ClientMovie.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\MVC_Vezbi_database\\Models\\ClientMovie.cs",
               "RelativeDocumentMoniker": "MVC_Vezbi_database\\Models\\ClientMovie.cs",
-              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_Vezbi_database\\MVC_Vezbi_database\\Models\\ClientMovie.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\MVC_Vezbi_database\\Models\\ClientMovie.cs",
               "RelativeToolTip": "MVC_Vezbi_database\\Models\\ClientMovie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T18:22:18.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T18:22:18.236Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_Vezbi_database\\MVC_Vezbi_database\\Controllers\\MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\MVC_Vezbi_database\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "MVC_Vezbi_database\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_Vezbi_database\\MVC_Vezbi_database\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\MVC_Vezbi_database\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "MVC_Vezbi_database\\Controllers\\MoviesController.cs",
               "ViewState": "AQIAAH4AAAAAAAAAAAAkwIoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T18:21:29.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T18:21:29.882Z"
             },
             {
               "$type": "Document",
@@ -97,21 +94,19 @@
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_MVC_Vezbi_database_20240502103958/True/SqlTable/dbo.MovieClients.sql",
               "ToolTip": "dbo.MovieClients [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-02T18:20:50.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T18:20:50.742Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_Vezbi_database\\MVC_Vezbi_database\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\MVC_Vezbi_database\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVC_Vezbi_database\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_Vezbi_database\\MVC_Vezbi_database\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\MVC_vezbi\\MVC_Vezbi_database\\MVC_Vezbi_database\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MVC_Vezbi_database\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T18:18:44.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T18:18:44.919Z"
             },
             {
               "$type": "Document",
@@ -120,8 +115,7 @@
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_MVC_Vezbi_database_20240502103958/True/SqlTable/dbo.Movies.sql",
               "ToolTip": "dbo.Movies [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-02T18:17:55.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T18:17:55.486Z"
             }
           ]
         }
