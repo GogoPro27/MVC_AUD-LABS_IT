@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goraz\\source\\repos\\LAB_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\controllers\\hospitalcontrollers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\controllers\\hospitalcontrollers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\views\\doctors\\addpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\views\\doctors\\addpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\models\\hospital_models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\models\\hospital_models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\migrations\\202405172141562_addpatientsindoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\migrations\\202405172141562_addpatientsindoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\models\\hospital_models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\models\\hospital_models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\migrations\\202405172003369_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\migrations\\202405172003369_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\migrations\\202405172137393_refactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\migrations\\202405172137393_refactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\views\\hospitals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\views\\hospitals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\controllers\\hospitalcontrollers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\controllers\\hospitalcontrollers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\migrations\\202405172126297_addcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\migrations\\202405172126297_addcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\views\\hospitals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\views\\hospitals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\models\\hospital_models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\models\\hospital_models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\controllers\\hospitalcontrollers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\controllers\\hospitalcontrollers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|c:\\users\\goraz\\source\\repos\\lab_3\\lab_3\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F353202-D557-4AC8-AB55-F02CF5027BBA}|LAB_3\\LAB_3.csproj|solutionrelative:lab_3\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPatient.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Doctors\\AddPatient.cshtml",
+              "RelativeDocumentMoniker": "LAB_3\\Views\\Doctors\\AddPatient.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Doctors\\AddPatient.cshtml",
+              "RelativeToolTip": "LAB_3\\Views\\Doctors\\AddPatient.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T21:54:23.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "LAB_3\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "LAB_3\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAWwHEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:45:06.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Doctors\\Details.cshtml",
+              "RelativeDocumentMoniker": "LAB_3\\Views\\Doctors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Doctors\\Details.cshtml",
+              "RelativeToolTip": "LAB_3\\Views\\Doctors\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T21:42:36.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "202405172141562_addPatientsInDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Migrations\\202405172141562_addPatientsInDoctor.cs",
+              "RelativeDocumentMoniker": "LAB_3\\Migrations\\202405172141562_addPatientsInDoctor.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Migrations\\202405172141562_addPatientsInDoctor.cs",
+              "RelativeToolTip": "LAB_3\\Migrations\\202405172141562_addPatientsInDoctor.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:42:01.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202405172137393_refactor.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Migrations\\202405172137393_refactor.cs",
+              "RelativeDocumentMoniker": "LAB_3\\Migrations\\202405172137393_refactor.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Migrations\\202405172137393_refactor.cs",
+              "RelativeToolTip": "LAB_3\\Migrations\\202405172137393_refactor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:37:44.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Models\\Hospital_Models\\Patient.cs",
+              "RelativeDocumentMoniker": "LAB_3\\Models\\Hospital_Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Models\\Hospital_Models\\Patient.cs",
+              "RelativeToolTip": "LAB_3\\Models\\Hospital_Models\\Patient.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADgvxIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:47:10.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Controllers\\HospitalControllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "LAB_3\\Controllers\\HospitalControllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Controllers\\HospitalControllers\\DoctorsController.cs",
+              "RelativeToolTip": "LAB_3\\Controllers\\HospitalControllers\\DoctorsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:05:00.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Hospitals\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB_3\\Views\\Hospitals\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Hospitals\\Index.cshtml",
+              "RelativeToolTip": "LAB_3\\Views\\Hospitals\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T20:49:18.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "LAB_3\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "LAB_3\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:03:16.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "202405172126297_addCode.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Migrations\\202405172126297_addCode.cs",
+              "RelativeDocumentMoniker": "LAB_3\\Migrations\\202405172126297_addCode.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Migrations\\202405172126297_addCode.cs",
+              "RelativeToolTip": "LAB_3\\Migrations\\202405172126297_addCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:26:34.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB_3\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "LAB_3\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T20:58:25.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Patients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LAB_3\\Views\\Patients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Patients\\Edit.cshtml",
+              "RelativeToolTip": "LAB_3\\Views\\Patients\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T21:30:34.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Models\\Hospital_Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "LAB_3\\Models\\Hospital_Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Models\\Hospital_Models\\Doctor.cs",
+              "RelativeToolTip": "LAB_3\\Models\\Hospital_Models\\Doctor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:47:21.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "202405172003369_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Migrations\\202405172003369_Initial.cs",
+              "RelativeDocumentMoniker": "LAB_3\\Migrations\\202405172003369_Initial.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Migrations\\202405172003369_Initial.cs",
+              "RelativeToolTip": "LAB_3\\Migrations\\202405172003369_Initial.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:03:41.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB_3\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "LAB_3\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T21:30:56.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Hospitals\\Create.cshtml",
+              "RelativeDocumentMoniker": "LAB_3\\Views\\Hospitals\\Create.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Hospitals\\Create.cshtml",
+              "RelativeToolTip": "LAB_3\\Views\\Hospitals\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T21:32:50.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "LAB_3\\Views\\Patients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "LAB_3\\Views\\Patients\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T21:33:13.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Controllers\\HospitalControllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "LAB_3\\Controllers\\HospitalControllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Controllers\\HospitalControllers\\PatientsController.cs",
+              "RelativeToolTip": "LAB_3\\Controllers\\HospitalControllers\\PatientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:30:29.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "LAB_3\\Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "LAB_3\\Models\\IdentityModels.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:58:18.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Models\\Hospital_Models\\Hospital.cs",
+              "RelativeDocumentMoniker": "LAB_3\\Models\\Hospital_Models\\Hospital.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Models\\Hospital_Models\\Hospital.cs",
+              "RelativeToolTip": "LAB_3\\Models\\Hospital_Models\\Hospital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:47:34.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LAB_3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LAB_3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T20:07:07.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HospitalsController.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Controllers\\HospitalControllers\\HospitalsController.cs",
+              "RelativeDocumentMoniker": "LAB_3\\Controllers\\HospitalControllers\\HospitalsController.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\LAB_3\\LAB_3\\Controllers\\HospitalControllers\\HospitalsController.cs",
+              "RelativeToolTip": "LAB_3\\Controllers\\HospitalControllers\\HospitalsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:06:03.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
