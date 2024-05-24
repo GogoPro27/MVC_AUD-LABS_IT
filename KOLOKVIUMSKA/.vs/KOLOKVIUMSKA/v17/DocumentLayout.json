@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|c:\\users\\goraz\\source\\repos\\kolokviumska\\kolokviumska\\migrations\\202405241632347_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\migrations\\202405241632347_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|c:\\users\\goraz\\source\\repos\\kolokviumska\\kolokviumska\\views\\albums\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\views\\albums\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|c:\\users\\goraz\\source\\repos\\kolokviumska\\kolokviumska\\models\\moi\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\models\\moi\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|c:\\users\\goraz\\source\\repos\\kolokviumska\\kolokviumska\\models\\moi\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\models\\moi\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|c:\\users\\goraz\\source\\repos\\kolokviumska\\kolokviumska\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|c:\\users\\goraz\\source\\repos\\kolokviumska\\kolokviumska\\views\\account\\addusertorole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\views\\account\\addusertorole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|c:\\users\\goraz\\source\\repos\\kolokviumska\\kolokviumska\\models\\moi\\addtorolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\models\\moi\\addtorolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|c:\\users\\goraz\\source\\repos\\kolokviumska\\kolokviumska\\controllers\\moi\\albumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\controllers\\moi\\albumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|c:\\users\\goraz\\source\\repos\\kolokviumska\\kolokviumska\\views\\artists\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\views\\artists\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|c:\\users\\goraz\\source\\repos\\kolokviumska\\kolokviumska\\views\\stores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\views\\stores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|c:\\users\\goraz\\source\\repos\\kolokviumska\\kolokviumska\\views\\albums\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\views\\albums\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\kolokviumska\\controllers\\moi\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\controllers\\moi\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|c:\\users\\goraz\\source\\repos\\kolokviumska\\kolokviumska\\views\\stores\\addtostore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\views\\stores\\addtostore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|c:\\users\\goraz\\source\\repos\\kolokviumska\\kolokviumska\\models\\moi\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F39096-78D0-4E41-B71E-04D08B15EFD1}|KOLOKVIUMSKA\\KOLOKVIUMSKA.csproj|solutionrelative:kolokviumska\\models\\moi\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202405241632347_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Migrations\\202405241632347_mig1.cs",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Migrations\\202405241632347_mig1.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Migrations\\202405241632347_mig1.cs",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Migrations\\202405241632347_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:32:39.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Views\\Albums\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Views\\Albums\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Views\\Albums\\Edit.cshtml",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Views\\Albums\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:28:48.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Models\\MOI\\Album.cs",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Models\\MOI\\Album.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Models\\MOI\\Album.cs",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Models\\MOI\\Album.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:28:04.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Models\\MOI\\Artist.cs",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Models\\MOI\\Artist.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Models\\MOI\\Artist.cs",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Models\\MOI\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:28:02.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddUserToRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Views\\Account\\AddUserToRole.cshtml",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Views\\Account\\AddUserToRole.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Views\\Account\\AddUserToRole.cshtml",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Views\\Account\\AddUserToRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:24:10.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddToRoleModel.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Models\\MOI\\AddToRoleModel.cs",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Models\\MOI\\AddToRoleModel.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Models\\MOI\\AddToRoleModel.cs",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Models\\MOI\\AddToRoleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:06:42.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:04:15.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Views\\Artists\\Details.cshtml",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Views\\Artists\\Details.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Views\\Artists\\Details.cshtml",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Views\\Artists\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:03:57.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Models\\MOI\\Store.cs",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Models\\MOI\\Store.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Models\\MOI\\Store.cs",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Models\\MOI\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:00:24.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlbumsController.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Controllers\\MOI\\AlbumsController.cs",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Controllers\\MOI\\AlbumsController.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Controllers\\MOI\\AlbumsController.cs",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Controllers\\MOI\\AlbumsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:59:45.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Views\\Albums\\Details.cshtml",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Views\\Albums\\Details.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Views\\Albums\\Details.cshtml",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Views\\Albums\\Details.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T15:59:40.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Views\\Stores\\Details.cshtml",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Views\\Stores\\Details.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Views\\Stores\\Details.cshtml",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Views\\Stores\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T15:56:51.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddToStore.cshtml",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Views\\Stores\\AddToStore.cshtml",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Views\\Stores\\AddToStore.cshtml",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Views\\Stores\\AddToStore.cshtml",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Views\\Stores\\AddToStore.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T15:35:24.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Controllers\\MOI\\StoresController.cs",
+              "RelativeDocumentMoniker": "KOLOKVIUMSKA\\Controllers\\MOI\\StoresController.cs",
+              "ToolTip": "C:\\Users\\goraz\\source\\repos\\KOLOKVIUMSKA\\KOLOKVIUMSKA\\Controllers\\MOI\\StoresController.cs",
+              "RelativeToolTip": "KOLOKVIUMSKA\\Controllers\\MOI\\StoresController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAjwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:19:05.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

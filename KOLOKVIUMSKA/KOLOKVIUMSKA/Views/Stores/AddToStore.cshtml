@@ -1,0 +1,19 @@
+﻿@model KOLOKVIUMSKA.Models.MOI.AddToStoreModel
+@{
+    ViewBag.Title = "AddToStore";
+}
+
+<h2>Add Album to Store: @ViewBag.StoreName</h2>
+
+@using (Html.BeginForm("AddToStore", "Stores"))
+{
+    <div>
+        @Html.DropDownListFor(m => m.albumId, new SelectList(Model.albums, "Id", "Name"))
+        @Html.HiddenFor(m=>m.storeId)
+    </div>
+    <button type="submit" class="btn">
+        Save
+    </button>
+}
+
+
