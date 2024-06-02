@@ -1,0 +1,52 @@
+﻿@model vezba.Models.Hospital
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Hospital</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Img_Url)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Img_Url)
+        </dd>
+
+    </dl>
+</div>
+<h3>Doctors that work in this hospital:</h3>
+<ul>
+    @foreach(var d in Model.Doctors) { 
+        <li>
+            @Html.ActionLink(d.Name,"Details","Doctors",new {id = d.Id},null) |
+            @Html.ActionLink("Delete", "DeleteDoctor", "Hospitals", new {hId=Model.Id,dId=d.Id},null)
+        </li>
+    }
+</ul>
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

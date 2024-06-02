@@ -1,0 +1,18 @@
+﻿@model vezba.Models.AddToRoleModel
+@{
+    ViewBag.Title = "AddUserToRole";
+}
+
+<h2>AddUserToRole</h2>
+
+@using (Html.BeginForm("AddUserToRole","Account"))
+{
+    <div>
+        @Html.LabelFor(m => m.Email);
+        @Html.TextBoxFor(m => m.Email);
+        @Html.DropDownListFor(m => m.SelectedRole, new SelectList(Model.Roles));
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+

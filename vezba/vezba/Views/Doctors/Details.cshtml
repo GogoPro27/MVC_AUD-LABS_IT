@@ -1,0 +1,38 @@
+﻿@model vezba.Models.Doctor
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Doctor</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+    </dl>
+</div>
+<h3>Patients: </h3>
+<ul>
+    @foreach(var p in Model.Patients) { 
+        <li>
+            @Html.ActionLink(p.Name,"Details","Patients",new {id = p.Id},null) | 
+            @Html.ActionLink("Delete","DeletePatient",new {pId = p.Id,dId=Model.Id},null) 
+        </li>
+    }
+</ul>
+
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Add Patient", "AddPatient", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

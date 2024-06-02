@@ -1,0 +1,15 @@
+﻿@model vezba.Models.AddDoctorToHospitalModel
+@{
+    ViewBag.Title = "AddDoctor";
+}
+
+<h2>AddDoctor</h2>
+
+@using (Html.BeginForm("AddDoctor")) {
+    <div>
+        @Html.DropDownListFor(m=>m.DoctorId, new SelectList(Model.Doctors, "Id", "Name"))
+        @Html.HiddenFor(m=>m.HospitalId)
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+
